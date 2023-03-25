@@ -1,0 +1,1 @@
+/usr/bin/clang -Wall -std=c11  -s -DNDEBUG -std=c11 -m32 CMakeFiles/lesson08.dir/src/lesson08.c.o CMakeFiles/lesson08.dir/src/logger.c.o -o /home/thierry/Sources/Opengl/Lesson08/binclang32/Release/lesson08.exe  -lGL -lglut -lGLU -lm 
